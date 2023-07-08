@@ -1,0 +1,15 @@
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\bin\Debug\net6.0\LogicalProblem.exe
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\bin\Debug\net6.0\LogicalProblem.deps.json
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\bin\Debug\net6.0\LogicalProblem.runtimeconfig.json
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\bin\Debug\net6.0\LogicalProblem.dll
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\bin\Debug\net6.0\LogicalProblem.pdb
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\LogicalProblem.csproj.AssemblyReference.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\LogicalProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\LogicalProblem.AssemblyInfoInputs.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\LogicalProblem.AssemblyInfo.cs
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\LogicalProblem.csproj.CoreCompileInputs.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\LogicalProblem.dll
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\refint\LogicalProblem.dll
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\LogicalProblem.pdb
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\LogicalProblem.genruntimeconfig.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\source\repos\LogicalProblem\obj\Debug\net6.0\ref\LogicalProblem.dll
